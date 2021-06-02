@@ -1,4 +1,14 @@
-Ohit0s = input("Type out any alternative of 0 you want: ")
-Isayv = input("Type out any alternative of v you want: ")
-print(f"This is your Lenny creation: ({Ohit0s}{Isayv}{Ohit0s})")
-print(f"more-> [{Ohit0s}{Isayv}{Ohit0s}] |{Ohit0s}{Isayv}{Ohit0s}| ¯\_({Ohit0s}{Isayv}{Ohit0s})_/¯ ┐({Ohit0s}{Isayv}{Ohit0s})┌ ლ({Ohit0s}{Isayv}{Ohit0s}ლ)")
+# Keep It Simple Silly (KISS) :)
+
+Logg = int(input("1- miniME 2- urbeCHOICE 3- whoUNITY: "))
+
+if Logg == 1:
+    Ov0s = input("Type out any alternative of 0 you want: ")
+    soVos = input("Type out any alternative of v you want: ")
+    print(f"This is your Lenny face: ({Ov0s}{soVos}{Ov0s})")
+    print(f"more faces-> ¯\_({Ov0s}{soVos}{Ov0s})_/¯ ┐({Ov0s}{soVos}{Ov0s})┌ ლ({Ov0s}{soVos}{Ov0s}ლ)")
+elif Logg == 2:
+    print("Happy: (0v0) (0u0) (0w0) (OvO) (OuO) (OwO) (IvI) (IuI) ( ͡ᵔ ͜ʖ ͡ᵔ ) ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)  ღƪ(ˆ◡ˆ)ʃ♡ƪ(ˆ◡ˆ)ʃ♪  ֎(ˇ‿ˇ)֎ (º𐃔º) (ᵔ𐃔ᵔ) (✺ᵔ‿ᵔ✺) (❋＾𐃔＾❋) (*^.^*) (*ﾟ∀ﾟ*) (☉⋆‿⋆☉) ⧽(•‿•)⧼ (*^‿^*) ⊙▽⊙ ɷ◡ɷ ʘ‿ʘ മ◡മ ◉‿◉ (≧▽≦) （ꉺᗜꉺ) （＾ω＾） （＾ｖ＾） ⊂◉‿◉つ (＾ω＾) ｡^‿^｡  ´･ᴗ･` (＾▽＾) ⧹(⦁ᴗ⦁)⧸  (*ˇ‿ˇ*) (●⁀‿⁀●) (⊙^‿^⊙) (⊛𐩐‿𐩐⊛) (⍟^‿^⍟) (◍'‿'◍) (◌ˇ‿ˇ◌)")
+    print("Angry: (⩺_⩹) ̿'̿'\̵͇̿̿\з=( ͠° ͟ʖ ͡°)=ε/̵͇̿̿/'̿̿ ̿ ̿ ̿ ̿ ̿  ༽◺_◿༼ (◣_◢) (`A´) (-`д´-) (⋋▂⋌) 〴⋋_⋌〵 (’益’) ヽ(ｏ`皿′ｏ)ﾉ ヽ(ｏ`皿′ｏ)ﾉ ᕙ( ︡’︡益’︠)ง (◣_(◣_(◣_◢)_◢)_◢) ٩ (╬ʘ益ʘ╬) ۶ ( ง `ω´ )۶ ۹( ÒہÓ )۶ (╬≖_≖) ୧༼ ಠ益ಠ ༽୨ (｀д´)ゝ (｀д´)ゝ ⸨◺_◿⸩ -(`෴´)- ꒰｡•`ｪ´•｡꒱۶ Ψ(`_´ # )↝ ☜(`o´)")
+else:
+    print("⊂(0v0)⊃⊂( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)⊃⊂(ᵔ𐃔ᵔ)⊃⊂(＾ω＾)⊃⊂(❍ᴥ❍ʋ)⊃⊂(˚ㄥ_˚)⊃⊂( ´・＿・` )⊃⊂(・・)⊃⊂( ͡° ͜ ͡°)⊃⊂ʕ•ᴥ•ʔ⊃⊂(uωu)⊃")
